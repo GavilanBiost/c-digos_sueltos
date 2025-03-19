@@ -6,3 +6,4 @@ Las siguientes imágenes forman parte de un ejercicio de Fundamentos de Redes y 
 Este código hace referencia a dos representaciónes:
 * Figura 1: representación de '010011' en formato analógico y digital. 
 * Figura 11: representacion de la tasa de error de los paquetes en comparacion a su tamaño.
+* Figura 12: boxplot de la distribución de RTTs según sitio web.
