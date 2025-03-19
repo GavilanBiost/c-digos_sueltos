@@ -4,5 +4,5 @@ El siguiente repositorio recoge diferentes tipos de código utilizados para ejer
 # Imagen:
 Las siguientes imágenes forman parte de un ejercicio de Fundamentos de Redes y Arquitecturas.
 Este código hace referencia a dos representaciónes:
-Figura 1: representación de '010011' en formato analógico y digital. 
-Figura 11: representacion de la tasa de error de los paquetes en comparacion a su tamaño.
+* Figura 1: representación de '010011' en formato analógico y digital. 
+* Figura 11: representacion de la tasa de error de los paquetes en comparacion a su tamaño.
